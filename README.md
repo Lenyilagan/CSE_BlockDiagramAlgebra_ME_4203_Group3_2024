@@ -56,7 +56,10 @@
 
 **Step Response**
 
-![Step Response](https://github.com/Lenyilagan/CSE_BlockDiagramAlgebra_ME_4203_Group3_2024/assets/161393545/f19dc190-3ff2-40cd-ab78-def6e65fbced)
+**Step Response From Step Function - Before Reduce Block Diagram**
+
+![Screenshot 2024-05-20 215723](https://github.com/Lenyilagan/CSE_BlockDiagramAlgebra_ME_4203_Group3_2024/assets/161393545/a460449a-5ba3-44f8-b864-d3b81dad4994)
+
 
 **Simulink Model**
 
