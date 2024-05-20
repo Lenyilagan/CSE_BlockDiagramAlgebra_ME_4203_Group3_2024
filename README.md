@@ -33,10 +33,10 @@
     H2_num = [0 1]
     H2_den = [1 -1]
 
-H3_num = [0 1]
-H3_den = [1 -2]
+    H3_num = [0 1]
+    H3_den = [1 -2]
 
-%AfterReduce Block Diagram
+    %AfterReduce Block Diagram
 
 %Block Diagram Algebra
 %G_1 = 1/s^2
