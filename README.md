@@ -67,7 +67,7 @@
 **Step Response From Simulink - Before Reduce Block Diagram**
 
 
-**Step Response From Simulink - Before Reduce Block Diagram**
+**Step Response From Simulink - After Reduce Block Diagram**
 
 
 
