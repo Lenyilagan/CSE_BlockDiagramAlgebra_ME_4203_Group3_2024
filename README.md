@@ -53,3 +53,6 @@
 
     % step response
     step(G,0:0.1:20)
+
+**Step Response**
+
