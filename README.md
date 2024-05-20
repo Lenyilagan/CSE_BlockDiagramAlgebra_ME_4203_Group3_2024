@@ -64,10 +64,12 @@
 
 ![Screenshot 2024-05-20 220116](https://github.com/Lenyilagan/CSE_BlockDiagramAlgebra_ME_4203_Group3_2024/assets/161393545/aff13e3d-5874-4467-8341-ea3f3b1c7ee2)
 
-**Simulink Model**
+**Step Response From Simulink - Before Reduce Block Diagram**
 
 
-**Scope Response**
+**Step Response From Simulink - Before Reduce Block Diagram**
+
+
 
 
 
