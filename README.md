@@ -58,4 +58,11 @@
 
 ![Step Response](https://github.com/Lenyilagan/CSE_BlockDiagramAlgebra_ME_4203_Group3_2024/assets/161393545/f19dc190-3ff2-40cd-ab78-def6e65fbced)
 
+**Simulink Model**
+
+
+
+**Scope Response**
+
+
 
