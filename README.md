@@ -70,6 +70,9 @@
 
 **Step Response From Simulink - After Reduce Block Diagram**
 
+![After Reduce Block Diagram](https://github.com/Lenyilagan/CSE_BlockDiagramAlgebra_ME_4203_Group3_2024/assets/161393545/31d7cc36-5875-4c22-b087-bb87dac4c81a)
+
+
 
 
 
