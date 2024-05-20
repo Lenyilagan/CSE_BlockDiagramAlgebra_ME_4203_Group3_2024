@@ -1,5 +1,10 @@
 # CSE_BlockDiagramAlgebra_ME_4203_Group3_2024
 
+2. Block Diagram Algebra
+
+![Step Response](https://github.com/Lenyilagan/CSE_BlockDiagramAlgebra_ME_4203_Group3_2024/assets/161393545/ca9be791-0f8c-4dd0-a625-7605481e2734)
+
+
 % Clear
 clear
 clc
