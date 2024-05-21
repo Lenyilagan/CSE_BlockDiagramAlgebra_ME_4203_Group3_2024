@@ -1,9 +1,7 @@
 # CSE_BlockDiagramAlgebra_ME_4203_Group3_2024
 
 **2. Block Diagram Algebra**
-
 ![Problem 2](https://github.com/Lenyilagan/CSE_BlockDiagramAlgebra_ME_4203_Group3_2024/assets/161393545/2e3feb06-e02a-4869-a55f-fc21e651fec6)
-
 
 **Matlab Code**
 %Clear
@@ -36,7 +34,6 @@ close all
   H3_den = [1 -2]
 
 %AfterReduce Block Diagram
-
 %Block Diagram Algebra
   %G_1 = 1/s^2
   %G_2 = 1/(s + 1)
@@ -57,7 +54,6 @@ close all
 **Step Response**
 
 **Step Response From Step Function - Before Reduce Block Diagram**
-
 ![Before Reduce Block Diagram](https://github.com/Lenyilagan/CSE_BlockDiagramAlgebra_ME_4203_Group3_2024/assets/161393545/a460449a-5ba3-44f8-b864-d3b81dad4994)
 
 **Step Response From Step Function - After Reduce Block Diagram**
