@@ -20,3 +20,8 @@ close all
 
   H1_num = [0 1]
   H1_den = [1 0]
+
+  H2_num = [0 1]
+  H2_den = [1 -1]
+
+  
