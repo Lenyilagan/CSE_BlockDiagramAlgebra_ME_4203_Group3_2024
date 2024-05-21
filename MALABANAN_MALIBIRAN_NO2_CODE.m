@@ -12,3 +12,5 @@ close all
   G2_num = [0 1]
   G2_den = [1 1]
   
+  G3_num = [0 1]
+  G3_den = [1 0]
