@@ -11,6 +11,7 @@
   close all
 
   %Before Reduce Block Diagram
+  
   %%Define G1, G2, G3,G4, H1, H2, and H3
 
   G1_num = [0 1]
@@ -35,6 +36,7 @@
   H3_den = [1 -2]
 
   %AfterReduce Block Diagram
+  
   %Block Diagram Algebra
   %G_1 = 1/s^2
   %G_2 = 1/(s + 1)
