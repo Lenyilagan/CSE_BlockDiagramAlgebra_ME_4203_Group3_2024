@@ -24,4 +24,7 @@ close all
   H2_num = [0 1]
   H2_den = [1 -1]
 
+  H3_num = [0 1]
+  H3_den = [1 -2]
+
   
