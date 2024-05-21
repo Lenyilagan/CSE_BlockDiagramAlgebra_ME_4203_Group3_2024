@@ -30,3 +30,9 @@ close all
 %AfterReduce Block Diagram
 
 %Block Diagram Algebra
+%G_1 = 1/s^2
+%G_2 = 1/(s + 1)
+%G_3 = 1/s
+%H_1 = 1/s
+%H_2 = 1/(s - 1)
+%H_3 = 1/(s - 2)
