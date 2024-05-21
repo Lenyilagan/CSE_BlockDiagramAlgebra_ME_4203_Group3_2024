@@ -45,14 +45,12 @@
       %H_1 = 1/s
       %H_2 = 1/(s - 1)
       %H_3 = 1/(s - 2)
-
-  G_num = [2 -6 4 0 0 0 0 0]
-  G_den = [4 -8 -4 14 -8 -2 2 6 4 0 0 0 0]
-  
-  G = tf(G_num,G_den)
-  
-  %Step response
-  step(G,0:0.1:20)
+      
+      G_num = [2 -6 4 0 0 0 0 0]
+      G_den = [4 -8 -4 14 -8 -2 2 6 4 0 0 0 0]
+      G = tf(G_num,G_den)
+    %Step response
+    step(G,0:0.1:20)
 
 
 **Step Response**
