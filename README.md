@@ -54,15 +54,19 @@ close all
 **Step Response**
 
 **Step Response From Step Function - Before Reduce Block Diagram**
+
 ![Before Reduce Block Diagram](https://github.com/Lenyilagan/CSE_BlockDiagramAlgebra_ME_4203_Group3_2024/assets/161393545/a460449a-5ba3-44f8-b864-d3b81dad4994)
 
 **Step Response From Step Function - After Reduce Block Diagram**
+
 ![After Reduce Block Diagram](https://github.com/Lenyilagan/CSE_BlockDiagramAlgebra_ME_4203_Group3_2024/assets/161393545/aff13e3d-5874-4467-8341-ea3f3b1c7ee2)
 
 **Step Response From Simulink - Before Reduce Block Diagram**
+
 ![Before Reduce Block Diagram](https://github.com/Lenyilagan/CSE_BlockDiagramAlgebra_ME_4203_Group3_2024/assets/161393545/7eb6f828-8934-41f6-acf3-1e56004e6ea0)
 
 **Step Response From Simulink - After Reduce Block Diagram**
+
 ![After Reduce Block Diagram](https://github.com/Lenyilagan/CSE_BlockDiagramAlgebra_ME_4203_Group3_2024/assets/161393545/31d7cc36-5875-4c22-b087-bb87dac4c81a)
 
 
