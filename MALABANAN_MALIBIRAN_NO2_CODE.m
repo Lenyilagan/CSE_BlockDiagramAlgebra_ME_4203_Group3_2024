@@ -27,4 +27,6 @@ close all
   H3_num = [0 1]
   H3_den = [1 -2]
 
-  
+%AfterReduce Block Diagram
+
+%Block Diagram Algebra
