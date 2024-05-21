@@ -42,5 +42,5 @@ close all
 
   G = tf(G_num,G_den)
 
-%Step Response
+%Step response
   step(G,0:0.1:20)
