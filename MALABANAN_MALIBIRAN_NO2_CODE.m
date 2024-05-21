@@ -14,3 +14,6 @@ close all
   
   G3_num = [0 1]
   G3_den = [1 0]
+
+  G4_num = [0 1]
+  G4_den = [2 0]
