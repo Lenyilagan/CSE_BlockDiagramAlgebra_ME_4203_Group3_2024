@@ -5,6 +5,8 @@
 ![Problem 2](https://github.com/Lenyilagan/CSE_BlockDiagramAlgebra_ME_4203_Group3_2024/assets/161393545/2e3feb06-e02a-4869-a55f-fc21e651fec6)
 
 **Matlab Code**
+
+
     %Clear
     clear
     clc
@@ -46,9 +48,9 @@
 
   G_num = [2 -6 4 0 0 0 0 0]
   G_den = [4 -8 -4 14 -8 -2 2 6 4 0 0 0 0]
-
+  
   G = tf(G_num,G_den)
-
+  
   %Step response
   step(G,0:0.1:20)
 
