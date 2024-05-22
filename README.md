@@ -94,7 +94,7 @@
 ![image](https://github.com/Lenyilagan/CSE_BlockDiagramAlgebra_ME_4203_Group3_2024/assets/159031775/eedeb67e-a2de-42f5-b09e-e859dcb25000)
 
 
-
+**Manual Reduction**
 
 
 
