@@ -85,7 +85,7 @@
 **Block Reduction using Matlab Simulink**
 
 ![image](https://github.com/Lenyilagan/CSE_BlockDiagramAlgebra_ME_4203_Group3_2024/assets/159031775/8692f9e9-ab20-4a46-9fd2-08765aa7f65b)
-![image](https://github.com/Lenyilagan/CSE_BlockDiagramAlgebra_ME_4203_Group3_2024/assets/159031775/f9359a10-b7e5-444f-b059-4f423f154959)
+![image](https://github.com/Lenyilagan/CSE_BlockDiagramAlgebra_ME_4203_Group3_2024/assets/159031775/202d547f-9417-4e7c-989e-87fa2de0243c)
 ![image](https://github.com/Lenyilagan/CSE_BlockDiagramAlgebra_ME_4203_Group3_2024/assets/159031775/87920924-9715-4d9e-bb73-f452fbbbea66)
 
 
