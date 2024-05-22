@@ -95,6 +95,8 @@
 
 
 **Manual Reduction**
+![image](https://github.com/Lenyilagan/CSE_BlockDiagramAlgebra_ME_4203_Group3_2024/assets/160560665/be832e96-7ee2-4798-82ab-6d1be352299a)
+
 
 
 
