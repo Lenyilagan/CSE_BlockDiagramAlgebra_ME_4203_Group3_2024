@@ -90,7 +90,7 @@
 ![image](https://github.com/Lenyilagan/CSE_BlockDiagramAlgebra_ME_4203_Group3_2024/assets/159031775/249e15e0-e8fb-45ec-9ccf-972592734a1d)
 
 
-
+**Scope Response of the block reduction**
 ![image](https://github.com/Lenyilagan/CSE_BlockDiagramAlgebra_ME_4203_Group3_2024/assets/159031775/eedeb67e-a2de-42f5-b09e-e859dcb25000)
 
 
