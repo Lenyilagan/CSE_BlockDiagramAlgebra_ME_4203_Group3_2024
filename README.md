@@ -82,7 +82,14 @@
 ![image](https://github.com/Lenyilagan/CSE_BlockDiagramAlgebra_ME_4203_Group3_2024/assets/159031775/40d26f6d-0c90-4786-8efc-08281782e158)
 
 
-**Step Response From Step Function - Before Reduce Block Diagram**
+**Block Reduction using Matlab Simulink**
+
+![image](https://github.com/Lenyilagan/CSE_BlockDiagramAlgebra_ME_4203_Group3_2024/assets/159031775/8692f9e9-ab20-4a46-9fd2-08765aa7f65b)
+![image](https://github.com/Lenyilagan/CSE_BlockDiagramAlgebra_ME_4203_Group3_2024/assets/159031775/f9359a10-b7e5-444f-b059-4f423f154959)
+![image](https://github.com/Lenyilagan/CSE_BlockDiagramAlgebra_ME_4203_Group3_2024/assets/159031775/87920924-9715-4d9e-bb73-f452fbbbea66)
+
+
+
 
 
 **2. Block Diagram Algebra**
