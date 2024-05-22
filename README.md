@@ -76,7 +76,7 @@
         step(TF,0:0.1:20)
 
         
-**Step Response**
+
 
 ![image](https://github.com/Lenyilagan/CSE_BlockDiagramAlgebra_ME_4203_Group3_2024/assets/159031775/40d26f6d-0c90-4786-8efc-08281782e158)
 
