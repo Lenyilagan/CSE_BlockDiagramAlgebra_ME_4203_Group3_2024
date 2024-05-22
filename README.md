@@ -83,6 +83,7 @@
 
 
 **Block Reduction using Matlab Simulink**
+![image](https://github.com/Lenyilagan/CSE_BlockDiagramAlgebra_ME_4203_Group3_2024/assets/159031775/8692f9e9-ab20-4a46-9fd2-08765aa7f65b)
 
 
 
