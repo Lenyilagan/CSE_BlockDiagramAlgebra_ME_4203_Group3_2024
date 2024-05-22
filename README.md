@@ -87,6 +87,8 @@
 ![image](https://github.com/Lenyilagan/CSE_BlockDiagramAlgebra_ME_4203_Group3_2024/assets/159031775/202d547f-9417-4e7c-989e-87fa2de0243c)
 ![image](https://github.com/Lenyilagan/CSE_BlockDiagramAlgebra_ME_4203_Group3_2024/assets/159031775/87920924-9715-4d9e-bb73-f452fbbbea66)
 ![image](https://github.com/Lenyilagan/CSE_BlockDiagramAlgebra_ME_4203_Group3_2024/assets/159031775/e9b1e40d-84eb-4513-a945-f92f793964d6)
+![image](https://github.com/Lenyilagan/CSE_BlockDiagramAlgebra_ME_4203_Group3_2024/assets/159031775/fe440c4e-4742-4c60-af46-8b107a4af340)
+
 
 
 
