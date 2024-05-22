@@ -2,7 +2,15 @@
 
 **1. Block Diagram Algebra**
 
+![image](https://github.com/Lenyilagan/CSE_BlockDiagramAlgebra_ME_4203_Group3_2024/assets/159031775/24384bdd-711c-4de3-9789-af6ce3aa9a42)
 
+
+**Matlab Code**
+
+        % Clear
+        clear
+        clc
+        close all
         syms t s
         
         %% Define G1, G2, G2, H1, H2, H3
